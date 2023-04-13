@@ -7,6 +7,8 @@
     
 02. intellij
     01) import eclipse project
+    https://nsmchan.tistory.com/m/29
+    File/New/Project from Existing Sources/import project from external moderl/Eclipse
     
 03. Yaml test
 04. Properties test
